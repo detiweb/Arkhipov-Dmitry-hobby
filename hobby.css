@@ -1,0 +1,46 @@
+body{
+	background: url(football.jpg);
+}
+img{
+ 	border: 15px solid yellow;
+ 	border-radius: 10px;
+ 	width: 500px;
+}
+p{
+ 	background: white;
+ 	font-size: 35px;
+}
+input{
+ 	margin: 5px;
+ 	font-size: 35px;
+}
+form{
+ 	font-size: 35px;
+}
+h1{
+	font-size: 50px;
+	background: white;
+}
+nav{
+ 	font-size: 35px;
+}
+div{
+	background: orange;
+	border: 15px solid yellow;
+	border-radius: 10px;
+}
+.footballers{
+	border: none;
+}
+.wiki{
+	border: none;
+	height: 100px;
+	width: 100px;
+}
+.copyright{
+	font-size: 20px;
+	background: none;
+}
+footer{
+	background: grey;
+}
